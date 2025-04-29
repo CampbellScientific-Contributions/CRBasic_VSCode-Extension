@@ -1,5 +1,8 @@
 # CRBasic VSCode Extension
 
+:warning: This repo is now obsolete due to the release of an official extension `cr-basic-ms-vscode` :warning:
+
+
 A VS-Code extension for [CRBasic](https://help.campbellsci.com/crbasic/cr1000x/).
 
 ## Overview
